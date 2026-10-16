@@ -200,3 +200,6 @@ dist
 
 ### Astro ###
 .astro/
+
+# Local source archive — never pushed (LF mirror of working-tree edits)
+_pending-bluehournovel/
